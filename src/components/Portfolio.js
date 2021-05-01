@@ -44,7 +44,7 @@ function Portfolio() {
                 "React Router",
                 "Styled components"
             ],
-            projectLink: "https://pqh-weather.herokuapp.com/"
+            projectLink: "https://quochuy-13.github.io/pqh/"
         },
         {
             projectName: "Informatics Center",
