@@ -64,7 +64,7 @@ const About = () => {
                                 </Typography>
                                 <br />
                                 <Typography variant="body1">
-                                    I am a final year degree in Embedded Systems at Industrial University of Ho Chi Minh City, I am passionate about building websites so I choose to study as a Font-End developer and will strive to become a Full-Stack developer in the future.
+                                    I am a final year degree in Embedded Systems at Industrial University of Ho Chi Minh City, I have a passion for website building, so I chose to study to become a Front-End developer and will strive to become a Full-Stack developer in the future.
                                 </Typography>
                             </Box>
                             <Box component="div" style={{ paddingLeft: "50px" }}>
