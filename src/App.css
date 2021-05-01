@@ -1,0 +1,11 @@
+/* body{
+  background: url('./Images/E603P.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+body{
+  background: url('./Images/coffee-apple.jpg') no-repeat  fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
