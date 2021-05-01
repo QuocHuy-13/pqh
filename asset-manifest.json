@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pqh/static/css/main.68858145.chunk.css",
+    "main.js": "/pqh/static/js/main.86a76f18.chunk.js",
+    "main.js.map": "/pqh/static/js/main.86a76f18.chunk.js.map",
+    "runtime-main.js": "/pqh/static/js/runtime-main.5585045b.js",
+    "runtime-main.js.map": "/pqh/static/js/runtime-main.5585045b.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/pqh/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.19a63b79.chunk.js": "/pqh/static/js/2.19a63b79.chunk.js",
+    "static/js/2.19a63b79.chunk.js.map": "/pqh/static/js/2.19a63b79.chunk.js.map",
+    "static/js/3.b551c08c.chunk.js": "/pqh/static/js/3.b551c08c.chunk.js",
+    "static/js/3.b551c08c.chunk.js.map": "/pqh/static/js/3.b551c08c.chunk.js.map",
+    "index.html": "/pqh/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/pqh/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.68858145.chunk.css.map": "/pqh/static/css/main.68858145.chunk.css.map",
+    "static/js/2.19a63b79.chunk.js.LICENSE.txt": "/pqh/static/js/2.19a63b79.chunk.js.LICENSE.txt",
+    "static/media/avatar.afb5775d.jpg": "/pqh/static/media/avatar.afb5775d.jpg",
+    "static/media/App.css": "/pqh/static/media/coffee-apple.a0c19713.jpg",
+    "static/media/hinh.a15f5b4d.jpg": "/pqh/static/media/hinh.a15f5b4d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5585045b.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.19a63b79.chunk.js",
+    "static/css/main.68858145.chunk.css",
+    "static/js/main.86a76f18.chunk.js"
+  ]
+}
